@@ -1,0 +1,1 @@
+C++ Language: Learn this versatile and powerful programming language. Includes detailed explanations of pointers, functions, classes and templates, among others
